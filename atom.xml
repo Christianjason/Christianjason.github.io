@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-24T11:04:07.884Z</updated>
+  <updated>2019-01-24T12:49:02.896Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://yoursite.com/2019/01/24/test/"/>
+    <id>http://yoursite.com/2019/01/24/test/</id>
+    <published>2019-01-24T12:47:01.000Z</published>
+    <updated>2019-01-24T12:49:02.896Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is a Github Page with hexo Test</p><p>##Markdown test1</p><p>GitHub address: <a href="https://github.com/Christianjason/Christianjason.github.io" target="_blank" rel="noopener">Server</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;This is a Github Page with hexo Test&lt;/p&gt;
+&lt;p&gt;##Markdown test1&lt;/p&gt;
+&lt;p&gt;GitHub address: &lt;a href=&quot;https://github.com/Christianjason/Christianj
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
